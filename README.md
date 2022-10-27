@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-￼
-
-- 
-￼
-  Ask me about anything [here](https://www.linkedin.com/in/mrtanlclk/)
+* Ask me about anything [here](https://www.linkedin.com/in/mrtanlclk/)
 
 
 
-**Built With** <br/><br/>
+**Built With** 
+<br/><br/>
 * [![HTML5][HTML5.com]][HTML5-url]
 * [![CSS3][CSS3.com]][CSS3-url]
 * [![JavaScript][JavaScript.com]][JavaScript-url]
@@ -17,11 +14,14 @@
 * [![Angular][Angular.io]][Angular-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
-<br/><br/>  **Familiar IDE** <br/><br/> 
+<br/><br/>  
+**Familiar IDE** 
+<br/><br/> 
 * [![Visual Studio Code][Visual Studio Code.com]][Visual Studio Code-url]
 * [![WebStorm][WebStorm.com]][WebStorm-url]
 <br/><br/>
-**Version Control** <br/><br/>
+**Version Control** 
+<br/><br/>
 * [![Git][Git.com]][Git-url]
 * [![GitHub][GitHub.com]][GitHub-url]
 * [![GitLab][GitLab.com]][GitLab-url]
